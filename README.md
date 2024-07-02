@@ -3,7 +3,3 @@
     <img src="github_stats.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
   </a>
 </p>
-
-<p align='center'>
-  <img align="center" src="./github_stats.svg">
-</p>
